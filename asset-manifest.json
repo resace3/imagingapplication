@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/imagingapplication/static/css/main.b100e6da.chunk.css",
+    "main.js": "/imagingapplication/static/js/main.19d0cff6.chunk.js",
+    "main.js.map": "/imagingapplication/static/js/main.19d0cff6.chunk.js.map",
+    "runtime-main.js": "/imagingapplication/static/js/runtime-main.1e1f47a1.js",
+    "runtime-main.js.map": "/imagingapplication/static/js/runtime-main.1e1f47a1.js.map",
+    "static/js/2.50c0f2a4.chunk.js": "/imagingapplication/static/js/2.50c0f2a4.chunk.js",
+    "static/js/2.50c0f2a4.chunk.js.map": "/imagingapplication/static/js/2.50c0f2a4.chunk.js.map",
+    "index.html": "/imagingapplication/index.html",
+    "precache-manifest.b0963c022939ecbd3b1a027605529bdd.js": "/imagingapplication/precache-manifest.b0963c022939ecbd3b1a027605529bdd.js",
+    "service-worker.js": "/imagingapplication/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/imagingapplication/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/imagingapplication/static/media/logo.25bf045c.svg"
+  }
+}
